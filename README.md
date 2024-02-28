@@ -1,5 +1,4 @@
 <img align="center" src="./assets/Github img.png" alt="devratpatel" />
-<br></br>
 <h1 align="center">Howdy Hey 👋🏻, I'm Devrat Patel</h1>
 
 <h3 align="center">A passionate frontend developer.</h3>
