@@ -1,7 +1,7 @@
 <img align="center" src="./assets/Github img.png" alt="devratpatel" />
 <h1 align="center">Howdy Hey 👋🏻, I'm Devrat Patel</h1>
 
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate software developer.</h3>
 
 -  🌱 I’m currently learning **react, next.js, swift**.
 -  🏸 I'm a casual **badminton player**.
