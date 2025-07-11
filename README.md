@@ -3,7 +3,6 @@
 
 <h3 align="center">A passionate software developer.</h3>
 
--  🌱 I’m currently learning **react, next.js, swift**.
 -  🏸 I'm a casual **badminton player**.
 
 <h3 align="left">Connect with me:</h3>
